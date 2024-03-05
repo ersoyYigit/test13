@@ -1,0 +1,8 @@
+{
+    "passwordLengthError" : "Parola en az 4 karakter uzunluğunda olmalıdır",
+    "password": "Parola",
+    "email": "E-posta",
+    "submitButton": "Giriş Yap",
+    "title": "Havaalanı Servislerine Hoşgeldiniz",
+    "forgotPassword": "Parolanızı mı unuttunuz?"
+}

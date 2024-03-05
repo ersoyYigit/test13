@@ -1,0 +1,11 @@
+.title {
+  padding: var(--mantine-spacing-md);
+  color: var(--mantine-color-blue-5);
+  box-shadow: var(--mantine-shadow-md);
+}
+
+.main {
+  padding: var(--mantine-spacing-md);
+  box-shadow: var(--mantine-shadow-md);
+  border-top: 1px solid var(--mantine-color-gray-3);
+}
